@@ -20,4 +20,7 @@ Customer name, Customer ID, Gender, Age, Address, Taste, Favorite ingredients, F
 ##  Information integration
 Due to Customer personal information may not be sufficient for prediction. I therefore need external data to build or develop a more accurate model. The technology used is Web mining and Text mining.
 
-## Presentation
+## Summary
+In summary, from the point of view of restaurant operators, I would like to offer a menu so that the customers who enter the restaurant are impressed with the food of the restaurant. I will store important information of new customers such as preferences, favorite ingredients, food allergies, etc. All data is stored in the Data Warehouse and externally stored by peers. It has been developed to be more accurate by using web mining and text mining.
+
+To make better decisions, I use the ML canvas to forecast trends in offering a menu that I think customers will love. The dashboard was used to answer questions about the relationship between the ingredients and the region and how much each ingredient was used in the cooking. When we find that customers have a preference for what kind of raw materials. We will be able to recommend dishes that we think customers will like.
